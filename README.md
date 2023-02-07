@@ -6,10 +6,10 @@
 ### My strongest skill is the ability to logically and rationally solve problems based on observed patterns.
 
 <br>
-<a href="https://github.com/behzad888">
+<a href="https://github.com/rhosseinr">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=rhosseinr&hide=stars&show_icons=true&theme=dark&time=now" />
 </a>
-<a href="https://github.com/behzad888">
+<a href="https://github.com/rhosseinr">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhosseinr&layout=compact&theme=dark" />
 </a>
 <br>
