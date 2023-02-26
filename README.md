@@ -38,4 +38,4 @@
 ![](https://img.shields.io/badge/.net%20core-%20-black?style=flat&logo=.net&color=5C2D91&logoColor=white)
 ![](https://img.shields.io/badge/NodeJS-%20-black?style=flat&logo=Node.js&color=339933&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft%20SQL%20Server-%20-black?style=flat&logo=microsoft-sql-server&color=CC2927&logoColor=white)
-[![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@main/badge/badge-storybook.svg)]
+![](https://cdn.jsdelivr.net/gh/storybookjs/brand@main/badge/badge-storybook.svg)
