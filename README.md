@@ -14,14 +14,6 @@
 </a>
 <br>
 <br>
-<a href="https://wakatime.com/share/@d913b308-1f28-45ac-8834-ea8aad9c19c0/41c5b57d-9a4d-46a6-9b32-588485b54dc0.svg">
-  <img height="300" align="top" src="https://wakatime.com/share/@d913b308-1f28-45ac-8834-ea8aad9c19c0/41c5b57d-9a4d-46a6-9b32-588485b54dc0.svg" />
-</a>
-<a href="https://wakatime.com/share/@d913b308-1f28-45ac-8834-ea8aad9c19c0/57d2d238-9a27-438c-a54e-cd9eca188d72.svg">
-  <img height="300" align="top" src="https://wakatime.com/share/@d913b308-1f28-45ac-8834-ea8aad9c19c0/57d2d238-9a27-438c-a54e-cd9eca188d72.svg" />
-</a>
-<br>
-<br>
 
 ## Skills
 
